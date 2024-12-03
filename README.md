@@ -4,7 +4,7 @@ This year, I will use a different programming lanaguage every day.
 
 1.  [x] C++
 2.  [x] Java
-3.  [ ] Kotlin
+3.  [x] Kotlin
 4.  [ ] OCaml
 5.  [ ] Swift
 6.  [ ] Lua
