@@ -5,8 +5,8 @@ This year, I will use a different programming lanaguage every day.
 1.  [x] C++
 2.  [x] Java
 3.  [x] Kotlin
-4.  [ ] OCaml
-5.  [ ] Swift
+4.  [x] Swift
+5.  [ ] OCaml
 6.  [ ] Lua
 7.  [ ] Zig
 8.  [ ] Odin
